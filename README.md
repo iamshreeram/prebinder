@@ -1,5 +1,7 @@
-<p style="text-align: center;">
+<p align="center">
+    <h1>
         prebinder
+    </h1>
     <br>
     <strong>A workflow engine to create runnable documentation</strong>
 </p>
