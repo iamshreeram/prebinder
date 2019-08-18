@@ -17,5 +17,5 @@ A workflow engine to create runnable documentation (documentation that users can
 
 ## Output of `prebinder`
 * Getting Started with pandas in 10 minutes.
-    * [Azure](https://prebinders-iamshreeram.notebooks.azure.com/j/notebooks/10min.ipynb)
+    * ~[Azure](https://prebinders-iamshreeram.notebooks.azure.com/j/notebooks/10min.ipynb)~
     * [GCP](https://hub-binder.mybinder.ovh/user/iamshreeram-pandas-binder-s2i014jv/notebooks/build/jupyter/getting_started/10min.ipynb)
