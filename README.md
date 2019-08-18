@@ -9,7 +9,8 @@
 ## About 
 `prebind` is a workflow engine and controller that is powered by Azure for creating runnable documentation. 
 
-## Current challenges
-
+## Current architecture
+![Image description](./static/before.png)
 
 ## Workflow engine 
+![Image description](./static/after.png)
