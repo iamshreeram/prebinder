@@ -1,14 +1,17 @@
 # prebinder
-A workflow engine to create runnable documentation<
+A workflow engine to create runnable documentation
 
 ## About 
 `prebind` is a workflow engine and controller that is powered by Azure for creating runnable documentation. 
 
-## Current architecture
-
+## Current setup
 ![Earlier architecuture](./static/before.png)
 
 ## Workflow engine 
+1. As soon as the user code gets merged in `github`, a webhook to work flow engine is triggered 
+2. WFlow kicks in the process of checking the difference in `markdown` files
+3. Based on delta, WFlow triggers the process to parse the `markdown` and create `jupyter notebook`  
+4. Once the `notebook` is created, Controller checks with user / `wflow.yml` to spin a binder instance in `GCP` or `Azure`
 
 ![Next Gen Architecture](./static/after.png)
 
