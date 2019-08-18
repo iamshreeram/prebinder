@@ -1,9 +1,7 @@
-<p align="center">
-    <h1>
+<p style="text-align: center;">
         prebinder
-    </h1>
     <br>
-    <strong>A workflow engine for runnable documentation</strong>
+    <strong>A workflow engine to create runnable documentation</strong>
 </p>
 
 ## About 
@@ -17,6 +15,7 @@
 
 ![Next Gen Architecture](./static/after.png)
 
-## Output in binder
-
-* [Getting Started with pandas in 10 minutes](https://hub-binder.mybinder.ovh/user/iamshreeram-pandas-binder-s2i014jv/notebooks/build/jupyter/getting_started/10min.ipynb)
+## Output of `prebinder`
+* Getting Started with pandas in 10 minutes
+    * [Azure](https://prebinders-iamshreeram.notebooks.azure.com/j/notebooks/10min.ipynb)
+    * [Binder](https://hub-binder.mybinder.ovh/user/iamshreeram-pandas-binder-s2i014jv/notebooks/build/jupyter/getting_started/10min.ipynb)
