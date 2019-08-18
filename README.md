@@ -1,10 +1,5 @@
-<p align="center">
-    <h1>
-        prebinder
-    </h1>
-    <br>
-    <strong>A workflow engine to create runnable documentation</strong>
-</p>
+# prebinder
+A workflow engine to create runnable documentation<
 
 ## About 
 `prebind` is a workflow engine and controller that is powered by Azure for creating runnable documentation. 
